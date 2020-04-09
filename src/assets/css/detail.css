@@ -20,6 +20,7 @@
 .foot-btn ul li a{width:100%;height:100%; display:block;}
 .foot-btn ul .say{width:2.03rem;height:0.52rem; border-right:1px solid #e8eaec;}
 .say i{width:0.36rem;height:0.26rem;background-size:100%; float:left; margin-left:0.7rem; margin-top:0.13rem;}
+.say i img{width:100%;}
 .say span{height:0.26rem; float:left; line-height:0.26rem; margin-left:0.16rem; margin-top:0.13rem;}
 .foot-btn ul .zan{width:1.86rem;height:0.52rem; border-right:1px solid #e8eaec;}
 .zan i{width:0.36rem;height:0.28rem; background-size:100%; float:left; margin-left:0.54rem; margin-top:0.13rem;}
